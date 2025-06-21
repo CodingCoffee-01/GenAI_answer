@@ -2,6 +2,8 @@
 
 - [static html for GenAI_answer](https://codingcoffee-01.github.io/GenAI_answer/)
 
+- [問卷](https://forms.gle/Uh6E3MHbRdnFmvnt7)
+
 ### this repository is recorded from ChatGPT , DeepSeek or other GenAI answer.
 
 ### But these topics is based on "try to use AI to make different education way" .Welcome clone this repository and pull request to me 
