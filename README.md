@@ -19,7 +19,7 @@
 
 # CodingCoffee Courses
 
-## Senior CodingCoffee 
+## Senior CodingCoffee Courses
 
 - [OpenBMC 系統開發](https://www.steamcourses.org/p/openbmc-system-development)
   
@@ -27,7 +27,7 @@
 
 - [OpenBMC測試除錯、及測試工具整合](https://www.steamcourses.org/p/openbmc-system-development1)
 
-## Junior CodingCoffee co-work with III 
+## Junior CodingCoffee Courses co-work with III 
 
 - [高中生的科學計算](https://www.iiiedu.org.tw/course/detail/CEL_0082501)
 
